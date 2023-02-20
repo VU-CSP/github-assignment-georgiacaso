@@ -1,3 +1,3 @@
 _Write a question for your teacher below._
 
-Q: 
+Q: Are there automated tools for tracking cell migration?
